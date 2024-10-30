@@ -6,7 +6,7 @@ import { useProducts } from '../utils/useProducts';
 import { useRecoilState } from 'recoil';
 import { cartItemsState } from '../atoms/cartState';
 import { useDispatch } from 'react-redux';
-import { addToCart } from '../redux/cartSlice';
+import { addToCart } from '../store/cartSlice';
 import { notify } from '../components/General/Notification';
 
 const EcommerceApp = () => {

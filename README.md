@@ -100,19 +100,19 @@ CSS: For styling the application.
 ## Screenshots
 
 ### Login Page
-![Login Page](images/Login.png)
+![Login Page](public/images/Login.png)
 
 ### Admin Dashboard
-![Admin Dashboard](images/AdminDashboard.png)
+![Admin Dashboard](public/images/AdminDashboard.png)
 
 ### Product List
-![Product List](images/shopping-cart.png)
+![Product List](public/images/shopping-cart.png)
 
 ### Cart Page
-![Cart Page](images/shopping-cart.png)
+![Cart Page](public/images/shopping-cart.png)
 
 ### Add Product
-![Add Product](images/AddProduct.png)
+![Add Product](public/images/AddProduct.png)
 
 ### Edit Product
-![Edit Product](images/EditProduct.png)
+![Edit Product](public/images/EditProduct.png)
