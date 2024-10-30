@@ -1,0 +1,15 @@
+.cart-container {
+    width: 80%; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 1px solid #ddd; 
+    background-color: #f9f9f9; 
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .cart-container {
+      width: 95%; 
+    }
+  }
+  
